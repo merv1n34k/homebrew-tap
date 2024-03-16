@@ -8,7 +8,7 @@ class FastxToolkit < Formula
 
   depends_on "cmake" => :build
   depends_on "gcc" => :build
-  #depends_on "your_tap/other_formula"
+  depends_on "merv1n34k/tap/other_formula"
 
   def install
     system "cmake", "-S", ".", "-B", "build", *std_cmake_args
