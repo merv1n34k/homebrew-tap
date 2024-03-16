@@ -1,10 +1,10 @@
 class Libgtextutils < Formula
-  desc "Gordon's Text utils Library "
+  desc "Gordon's Text utils Library"
   homepage "https://github.com/merv1n34k/libgtextutils/tree/cmake_version"
   license "AGPLv3"
-  url "https://github.com/merv1n34k/libgtextutils/releases/download/v0.1/libgtextutils-0.1.tar.gz"
+  url "https://github.com/merv1n34k/libgtextutils/releases/download/v0.2/libgtextutils-0.2.tar.gz"
   head "https://github.com/merv1n34k/libgtextutils.git", branch: "cmake_version"
-  sha256 "91231d92cd15eae9228704a2b15041da85d40851969eb8fdde255dacaab6a267"
+  sha256 "03856375965bb2ec140f9a0a36d9c16f2617cbfe72d080284e5ef2e2e90dc343"
 
   depends_on "cmake" => :build
   depends_on "gcc" => :build
