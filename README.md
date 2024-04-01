@@ -16,5 +16,10 @@ After that new formulae should appear in your Homebrew, installing them can be a
     $ brew install merv1n34k/tap/name_of_the_formulae
 ```
 
-# LICENSE
-Distributed under MIT License, see LICENSE.
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contribution
+
+Feel free to open an issue. PRs are also appreciated.
